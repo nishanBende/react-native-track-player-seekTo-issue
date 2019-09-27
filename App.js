@@ -5,13 +5,6 @@
  * @format
  * @flow
  */
-
-import {
-  Player,
-  Recorder,
-  MediaStates,
-} from '@react-native-community/audio-toolkit';
-
 import React from 'react';
 import {StyleSheet, Text} from 'react-native';
 import TrackPlayer from 'react-native-track-player';
